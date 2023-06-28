@@ -58,5 +58,17 @@
   {
     "id": 1494060,
     "relativePathToArticle": "./blog-posts/the-holy-grail-of-note-taking/the-holy-grail-of-note-taking.md"
+  },
+  {
+    "id": 1498507,
+    "relativePathToArticle": "./blog-posts/reactive-split-flap-display/rxjs-advanced-challenge-to-build-a-reactive-split-flap-display/rxjs-advanced-challenge-to-build-a-reactive-split-flap-display.md"
+  },
+  {
+    "id": 1498891,
+    "relativePathToArticle": "./blog-posts/reactive-split-flap-display/build-a-reactive-split-flap-display-with-angular/build-a-reactive-split-flap-display-with-angular.md"
+  },
+  {
+    "id": 1519361,
+    "relativePathToArticle": "./blog-posts/angular-create-grouped-app-initializer-queue/angular-create-grouped-app-initializer-queue.md"
   }
 ]
